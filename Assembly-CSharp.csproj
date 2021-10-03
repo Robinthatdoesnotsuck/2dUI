@@ -630,100 +630,100 @@
  <HintPath>/home/iram/Unity/Hub/Editor/2020.3.4f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.001">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="PsdPlugin">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Sysroot.Linux_x86_64">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.IK.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Psdimporter.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Path.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Toolchain.Linux-x86_64">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEditorBridge.001">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.IK.Runtime">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Triangle.Runtime">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Runtime">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Runtime">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Runtime">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.SysrootPackage.Editor">
- <HintPath>/home/iram/Desktop/Dev/2dUI/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
+ <HintPath>/home/iram/Desktop/Dev/Unity Projects/2dUI/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
